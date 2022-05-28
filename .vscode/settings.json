@@ -1,6 +1,7 @@
 {
   "files.associations": {
     "*.class": "java",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "iostream": "cpp"
   }
 }
